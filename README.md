@@ -80,7 +80,7 @@ Obs: Esta estrutura atende apenas como ambiente de testes. Em ambientes de produ
 
 Para consumir os endpoints da aplicação, basta acessar o seguinte endereço e seguir os modelos de requisição dentro da seção [Endpoints](##Endpoints)
 
-http://justaleaf.hopto.org:4000/api/entities
+http://arbo-v2.hopto.org:4000/api/entities
 
 
 ------------
