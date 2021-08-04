@@ -90,7 +90,7 @@ Para o consumo dos endpoints é possível utilizar ferramentas como o [Postman](
 
 - Criação de  entidade (entity):
 
-http://localhost:4000/api/entities
+http://arbo-v2.hopto.org:4000/api/entities
 POST request: 
 
 ```json
@@ -121,7 +121,7 @@ Response:
 
 - Edição de uma entidade (entity): 
 
-http://localhost:4000/api/entities/3    onde 3 é o id passado para a alteração
+http://arbo-v2.hopto.org:4000/api/entities/3    onde 3 é o id passado para a alteração
 PUT request:
 ```json
 {
@@ -154,7 +154,7 @@ Response:
 - Exibição de uma entidade (por id)
 
 GET request:
-http://localhost:4000/api/entities/1 onde 1 é o id passado para pesquisa
+http://arbo-v2.hopto.org:4000/api/entities/1 onde 1 é o id passado para pesquisa
 ```json
 {
   "entity_type": "network",
