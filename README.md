@@ -27,12 +27,12 @@ Ferramentas:
 
 Clone o repositório com o seguinte comando:
 
-`git clone https://github.com/frontino/arbo.git`
+`git clone https://github.com/frontino/arbo-v2.git`
 
-Com o repositório em sua máquina, entre na pasta `arbo`
+Com o repositório em sua máquina, entre na pasta `arbo-v2`
 
 ```    
-cd arbo/
+cd arbo-v2/
 ```
 
 Primeiramente, é necessário ter uma instância do MySQL pronta para uso, para poder consumir a base de dados, é necessário configurar os parâmetros para conexão dentro do projeto.
