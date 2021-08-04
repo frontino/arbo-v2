@@ -12,7 +12,7 @@ config :hoja,
 
 # Configures the endpoint
 config :hoja, HojaWeb.Endpoint,
-  url: [host: "localhost"],
+  url: [host: "0.0.0.0"],
   secret_key_base: "bxLOcLnKvEgfkbhmMBgxc8dPoyq+l2IYoMJHT7bipHP+09j+uwpyGY0B8qESylx1",
   render_errors: [view: HojaWeb.ErrorView, accepts: ~w(json), layout: false],
   pubsub_server: Hoja.PubSub,
